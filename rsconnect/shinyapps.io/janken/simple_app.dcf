@@ -1,0 +1,12 @@
+name: simple_app
+title: simple_app
+username: janken
+account: janken
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10020225
+bundleId: 7739017
+url: https://janken.shinyapps.io/simple_app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
